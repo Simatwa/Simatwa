@@ -1,8 +1,10 @@
-<div style="align:center">![Profile Views](https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Visitor+No)</div>
+<p style='text-align:center'> 
+![Profile Views](https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Visitor+No)
+ </p>
 
 # About me #
 
-> **Warning** [x] - @Simatwa doesn't like writing bio!
+> **Warning** - [x] @Simatwa doesn't like writing bio!
 
 ## 🌐 Socials:
 
