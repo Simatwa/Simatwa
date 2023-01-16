@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Visitor+No)
+![Profile Views](https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views)
                    
 
 # About me 
