@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats:
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight)
+![Smartwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight)
 
 ## 🌐 Socials:
 
