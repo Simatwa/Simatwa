@@ -1,4 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views) -->
+<p align="center">
+<img src="https://camo.githubusercontent.com/2fe1931b3e090107a0a6f72990d13081d39eef8ea6a53412e749eb371b1ec89a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53696d6174776126636f6c6f723d626c756576696f6c6574267374796c653d706c6173746963266c6162656c3d50726f66696c652b5669657773"/>
                    
 
 # About me 
