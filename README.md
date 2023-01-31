@@ -21,7 +21,7 @@
 
 [![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa)](https://github.com/Simatwa/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa)](https://github.com/Simatwa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa)](https://github.com/Simatwa)
 
 ## 🌐 Socials:
 
