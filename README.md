@@ -19,7 +19,7 @@
 
 ![Smartwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues)
 
-[![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa)](https://github.com/Simatwa/github-readme-stats)
+[![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa)](https://github.com/Simatwa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa)](https://github.com/Simatwa)
 
