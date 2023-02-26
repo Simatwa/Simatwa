@@ -8,7 +8,7 @@
 # About me
 <a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
 > **Warning** [Simatwa](#) doesn't like writing bio! <br>
- * [Smartwa](#) likes **Parrot-OS** and **Ethical H4ckIng.**
+ * [Smartwa](#) likes **Parrot-OS**
  * [I](#) am a Tech-fiend.
 
  
