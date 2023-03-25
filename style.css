@@ -1,0 +1,25 @@
+body{
+    background-image:url("https://media.tenor.com/5EoaEMSuBqcAAAAC/loading-gif-selphire.gif");
+    background-size:100% 100%;
+    font-family:courier;
+    text-align:center;
+}
+p{
+    font-size:150%;
+    font-weight:bold;
+    color:lime;
+}
+img.dp{
+    width:320px;
+    height:320px;
+    border-radius:140px;
+}
+img.visitors{
+    margin-top:180px;
+    margin-left:40%;
+    margin-right:40%;
+}
+a {
+    color:red;
+    text-decoration:none;
+}
