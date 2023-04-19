@@ -4,5 +4,5 @@ function sleep(ms) {
 async function ajhsvysbjuhajannqyafeeusbbeg(timeTosleep)
 {
     await sleep(timeTosleep * 1000);
-    window.location.href('https://simatwa.vercel.app');
+    location.replace('https://simatwa.vercel.app');
 }
