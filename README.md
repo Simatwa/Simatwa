@@ -17,7 +17,7 @@
 
 ## 📊 Progress Stats:
 
-![Smartwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues)
+![Smartwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 [![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa)](https://github.com/Simatwa)
 
