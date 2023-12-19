@@ -1,12 +1,11 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views)
-<a href='#'><img src='https://img.shields.io/static/v1?logo=github&message=Follow&label=Github&style=social'/></a>
 <!--
 <p align="center">
 <img src="https://camo.githubusercontent.com/2fe1931b3e090107a0a6f72990d13081d39eef8ea6a53412e749eb371b1ec89a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53696d6174776126636f6c6f723d626c756576696f6c6574267374796c653d706c6173746963266c6162656c3d50726f66696c652b5669657773"/>
 -->
 
 # About me
-<a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views"/> <a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
 > **Warning** [Simatwa](#) doesn't like writing bio! <br>
  * [Smartwa](#) likes **Parrot-OS**
  * [I](#) am a Tech-fiend.
@@ -36,7 +35,7 @@
 
 ## 🌐 Socials:
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smartwacaleb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beny.carl.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smartwa_caleb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartwa-caleb-927975197/) [![Fiverr](https://img.shields.io/static/v1?logo=fiverr&label=Fiverr&message=Order&color=green)](https://fiverr.com/smartwa_254)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smartwacaleb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beny.carl.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smartwa_caleb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartwa-caleb-927975197/) [![Fiverr](https://img.shields.io/static/v1?logo=fiverr&label=Fiverr&message=Order&color=green)](https://fiverr.com/smartwa_254) ![Follow me](https://img.shields.io/static/v1?logo=github&message=Follow&label=Github&style=social)
 
 <a href="https://oxygenblobsglass.com/bjih3uuhe?key=6b37fa529bff17e039a5697d32ef52f8"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%20120%20px.png"/></a>
 
