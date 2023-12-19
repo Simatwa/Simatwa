@@ -18,14 +18,30 @@
 
 ## 📊 Progress Stats:
 
+<img src="https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img src="https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=6&theme=tokyonight&combine_all_yearly_contributions=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight"/>
+<!--
 ![Smartwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-[![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa)](https://github.com/Simatwa)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa)](https://github.com/Simatwa)
+![Contributions](https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=8&theme=tokyonight&combine_all_yearly_contributions=true)
+
+[![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight)](https://github.com/Simatwa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight)](https://github.com/Simatwa)
+
+-->
 
 ## 🌐 Socials:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smartwacaleb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beny.carl.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smartwa_caleb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartwa-caleb-927975197/) [![Fiverr](https://img.shields.io/static/v1?logo=fiverr&label=Fiverr&message=Order&color=green)](https://fiverr.com/smartwa_254)
 
 <a href="https://oxygenblobsglass.com/bjih3uuhe?key=6b37fa529bff17e039a5697d32ef52f8"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%20120%20px.png"/></a>
+
+<!--
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=y2mate-api&theme=tokyonight"/>
+</a>
+-->
