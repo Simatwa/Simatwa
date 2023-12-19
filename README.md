@@ -37,9 +37,10 @@
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smartwacaleb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beny.carl.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smartwa_caleb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartwa-caleb-927975197/) [![Fiverr](https://img.shields.io/static/v1?logo=fiverr&label=Fiverr&message=Order&color=green)](https://fiverr.com/smartwa_254) ![Follow me](https://img.shields.io/static/v1?logo=github&message=Follow&label=Github&style=social)
 
+<!--
 <a href="https://oxygenblobsglass.com/bjih3uuhe?key=6b37fa529bff17e039a5697d32ef52f8"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%20120%20px.png"/></a>
 
-<!--
+
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=y2mate-api&theme=tokyonight"/>
 </a>
