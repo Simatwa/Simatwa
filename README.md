@@ -42,7 +42,7 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 <img src="https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img src="https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight">
 
-[![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight)](https://github.com/Simatwa)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight"/>
 
 <!--
 <img src="https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=6&theme=tokyonight&combine_all_yearly_contributions=true"/>
