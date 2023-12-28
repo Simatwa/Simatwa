@@ -6,7 +6,7 @@
 
 Where should I start from?
 
-My other computer? Well, let's just say it's your computer too. Sharing is caring, right? 😀 From debugging glitches to crafting elegant code, consider my keyboard an extension of your programming arsenal.
+My other computer? Well, let's just say it's your computer too. Sharing is caring, right? 😀
 
 I have an unspoken love ❤️ affair with Linux 🐧, not to mention its versatility. And if we're getting specific, [Parrot OS](https://www.parrotsec.org) 🦜 holds a special place in my heart. 💙 Would you like to know why? Hit my DM; social accounts available at my [portfolio](https://simatwa.vercel.app). I won't leave you on "read," I promise 😅.
 
