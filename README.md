@@ -1,14 +1,38 @@
-<!--
-<p align="center">
-<img src="https://camo.githubusercontent.com/2fe1931b3e090107a0a6f72990d13081d39eef8ea6a53412e749eb371b1ec89a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53696d6174776126636f6c6f723d626c756576696f6c6574267374796c653d706c6173746963266c6162656c3d50726f66696c652b5669657773"/>
--->
-
 # About me
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views"/> <a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
-> **Warning** [Simatwa](#) doesn't like writing bio! <br>
- * [Smartwa](#) likes **Parrot-OS**
- * [I](#) am a Tech-fiend.
+
+👋 Hey there! Welcome to my GitHub abode! 🚀
+
+Where should I start from?
+
+My other computer? Well, let's just say it's your computer too. Sharing is caring, right? 😀 From debugging glitches to crafting elegant code, consider my keyboard an extension of your programming arsenal.
+
+I have an unspoken love ❤️ affair with Linux 🐧, not to mention its versatility. And if we're getting specific, [Parrot OS](https://www.parrotsec.org) 🦜 holds a special place in my heart. 💙 Would you like to know why? Hit my DM; social accounts available at my [portfolio](https://simatwa.vercel.app). I won't leave you on "read," I promise 😅.
+
+**Curiosity drives me** - I'm always hunting for the next challenge, the next puzzle to solve, as well as learning anything related to my field. 💡💻 But I'll admit, my love for football ⚽ is purely due to peer pressure - blame the friends! And as for Anime, that's just my natural inclination towards captivating stories. 🏈📺
+
+Oh, and in my world of music 🎶, **Alan Walker** reigns supreme. His beats fuel my coding marathons and late-night debugging sessions. 🎵✨ I particularly adore the song "Faded" - especially when those melodies drop, it's pure magic! I bet you also love that line *"The monster's running wild inside of me"*, right? ❤️ 
+
+When I'm not orchestrating bits and bytes, you might find me lost in the world of memes or exploring the untamed wilderness of Stack Overflow 👨‍💻.
+
+Did I mention that I love **Manchester United**? 🥅 Oops! We aren't even in the top 4, so let me keep that story for another day. 🔴 
+
+Let's collaborate, innovate, and build some pixel-perfect magic together! 🌟 Feel free to dig into my repositories and drop a line. I'm always up for a coding adventure! 🌌
+
+Will you use this info to social engineer me 💻? Uhm, okay, come on baby, I wasn't that bad in cyber classes 📚 😂.
+
+
+```
+$ echo "Most of my very own best projects in Github are the ones that are lessly starred! 😅" >> fun-fact.txt
+
+  / \__
+ (    @\___
+ /         O
+/   (_____/
+/_____/   U
+
+```
 
  
  ## 💻 Tech Stack:
