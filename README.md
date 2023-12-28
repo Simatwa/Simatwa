@@ -12,11 +12,11 @@ I have an unspoken love ❤️ affair with Linux 🐧, not to mention its versat
 
 **Curiosity drives me** - I'm always hunting for the next challenge, the next puzzle to solve, as well as learning anything related to my field. 💡💻 But I'll admit, my love for football ⚽ is purely due to peer pressure - blame the friends! And as for Anime, that's just my natural inclination towards captivating stories. 🏈📺
 
-Oh, and in my world of music 🎶, **Alan Walker** reigns supreme. His beats fuel my coding marathons and late-night debugging sessions. 🎵✨ I particularly adore the song "Faded" - especially when those melodies drop, it's pure magic! I bet you also love that line *"The monster's running wild inside of me"*, right? ❤️ 
+Oh, and in my world of music 🎶, **Alan Walker** reigns supreme. His beats fuel my coding marathons and late-night debugging sessions. 🎵✨ I particularly adore the song *"Faded"* - especially when those melodies drop, it's pure magic! I bet you also love that line *"The monster's running wild inside of me"*, right? ❤️ 
 
 When I'm not orchestrating bits and bytes, you might find me lost in the world of memes or exploring the untamed wilderness of Stack Overflow 👨‍💻.
 
-Did I mention that I love **Manchester United**? 🥅 Oops! We aren't even in the top 4, so let me keep that story for another day. 🔴 
+Did I mention how much I love **Manchester United**? 🥅 Oops, maybe not the best season, but let's save that tale for another day. Still, can't forget Garnacho's spectacular overhead goal! 🔴"
 
 Let's collaborate, innovate, and build some pixel-perfect magic together! 🌟 Feel free to dig into my repositories and drop a line. I'm always up for a coding adventure! 🌌
 
@@ -33,8 +33,6 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 /_____/   U
 
 ```
-
-Hit that follow button and then visit [my projects in order](https://github.com/Simatwa/simatwa-does).
  
  ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/static/v1?logo=adobeillustrator&style=flat-square&message=Adobe-Illustrator&labelColor=blue&color=blue&label=) ![Figma](https://img.shields.io/static/v1?logo=figma&style=flat-square&message=Figma&labelColor=blue&color=blue&label=&logoColor=black)
@@ -44,15 +42,16 @@ Hit that follow button and then visit [my projects in order](https://github.com/
 
 <img src="https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img src="https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=6&theme=tokyonight&combine_all_yearly_contributions=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight"/>
+[![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight)](https://github.com/Simatwa)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight"/>
+
 <!--
+<img src="https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=6&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
 ![Smartwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=8&theme=tokyonight&combine_all_yearly_contributions=true)
-
-[![Simatwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight)](https://github.com/Simatwa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight)](https://github.com/Simatwa)
 
@@ -70,3 +69,5 @@ Hit that follow button and then visit [my projects in order](https://github.com/
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=y2mate-api&theme=tokyonight"/>
 </a>
 -->
+
+Hit that follow button and then visit [my projects in order](https://github.com/Simatwa/simatwa-does).
