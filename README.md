@@ -42,12 +42,15 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simatwa&theme=tokyonight" alt="Profile Details"/>
+<img src="https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img src="https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight"></img>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight"/>
 </p>
 <img alt="Simatwa Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=tokyonight"/>
