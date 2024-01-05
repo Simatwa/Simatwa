@@ -59,9 +59,9 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 ---
 
-| Overview | In Detail |
-|--------|----------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true) |
+| Overview | In Detail | Past one Month |
+|--------|----------|-------------------|
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=one_month&theme=synthwaves&include_private=true) |
 
 ---
 
