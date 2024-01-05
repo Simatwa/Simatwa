@@ -2,6 +2,7 @@
 
 <p align="center">
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views"/> <a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Simatwa/simatwa"/></a> 
 </p>
 
 ---
@@ -27,6 +28,8 @@ When I'm not orchestrating bits and bytes, you might find me lost in the world o
 Did I mention how much I love **Manchester United**? 🥅 Oops, maybe not the best season, but let's save that tale for another day. Still, can't forget Garnacho's spectacular overhead goal! 🔴"
 
 Let's collaborate, innovate, and build some pixel-perfect magic together! 🌟 Feel free to dig into my repositories and drop a line. I'm always up for a coding adventure! 🌌
+
+---
 
 Will you use this info to social engineer me 💻? Uhm, okay, come on baby, I wasn't that bad in cyber classes 📚 😂.
 
@@ -68,9 +71,9 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 ---
 
-| Overview | In Detail | Past one Month |
+| Overview | In Detail | Repositories |
 |--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=one_month&theme=synthwaves&include_private=true) |
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=synthwaves) |
 
 ---
 
