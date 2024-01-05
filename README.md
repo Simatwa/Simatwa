@@ -9,6 +9,10 @@
 
 <p align="center"><strong>👋 Hey there! Welcome to my GitHub abode! 🚀</strong></p>
 
+<p align="center">
+<img alt="Binaries in Motion" src="assets/binaries-in-motion.gif" width='70%'/>
+</p>
+
 > *Where should I start from?*
 
 My other **computer**? Well, ~~let's just say it's your computer too.~~ Sharing is caring, right? 😀
@@ -20,6 +24,16 @@ I have an unspoken love ❤️ affair with Linux 🐧, not to mention its versat
 **Curiosity drives me** - I'm always hunting for the next challenge, the next puzzle to solve, as well as learning anything related to my field. 💡💻 But I'll admit, my love for football ⚽ is purely due to peer pressure - blame the friends! And as for Anime, that's just my natural inclination towards captivating stories. 🏈📺
 
 Oh, and in my world of music 🎶, **Alan Walker** reigns supreme. His beats fuel my coding marathons and late-night debugging sessions. 🎵✨ I particularly adore the song *"Faded"* - especially when those melodies drop, it's pure magic! I bet you also love that line *"The monster's running wild inside of me"*, right? ❤️ 
+
+---
+
+<h2 align="center">Funny Me</h2>
+
+| Coding | Hilarious | Etcs |
+|--------|------------|-----|
+| ![super-developer](assets/super-developer.gif) | ![linux antivirus](assets/linux-antivirus.gif) | ![tech](assets/tech.gif) |
+| ![code in motion](assets/code-in-motion.gif) | ![chosen to debug](assets/chosen-for-debugging.gif) | ![eat sleep code repeat](assets/eat-sleep-code-repeat.gif) | 
+| ![when my code is working](assets/when-my-code-is-working.gif) | ![weekend bug](assets/weekend-bug.gif) | ![God](assets/God.gif) | 
 
 ---
 
@@ -84,9 +98,15 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 ---
 
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight"></img>
 </p>
+-->
+
+| Wakatime | Hire me |
+|----------|---------|
+| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight) | ![dev is here](assets/dev-is-here.gif) |
 
 ---
 
@@ -117,8 +137,12 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=y2mate-api&theme=tokyonight"/>
 </a>
 -->
+
 <p align="center">
 Hit that <kbd>follow</kbd> button and then visit <a href="https://github.com/Simatwa/simatwa-does" target="_blank">my projects in order.</a>
 </p>
+
+
+> **FAQ** : Are you always this funny/cheeky? **NO** : When I get to business I **MEAN** it. I don't bring jokes at work.
 
 ---
