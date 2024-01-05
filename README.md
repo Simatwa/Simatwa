@@ -12,9 +12,13 @@ My other computer? Well, let's just say it's your computer too. Sharing is carin
 
 I have an unspoken love ❤️ affair with Linux 🐧, not to mention its versatility. And if we're getting specific, [Parrot OS](https://www.parrotsec.org) 🦜 holds a special place in my heart. 💙 Would you like to know why? Hit my DM; social accounts available at my [portfolio](https://simatwa.vercel.app). I won't leave you on "read," I promise 😅.
 
+---
+
 **Curiosity drives me** - I'm always hunting for the next challenge, the next puzzle to solve, as well as learning anything related to my field. 💡💻 But I'll admit, my love for football ⚽ is purely due to peer pressure - blame the friends! And as for Anime, that's just my natural inclination towards captivating stories. 🏈📺
 
 Oh, and in my world of music 🎶, **Alan Walker** reigns supreme. His beats fuel my coding marathons and late-night debugging sessions. 🎵✨ I particularly adore the song *"Faded"* - especially when those melodies drop, it's pure magic! I bet you also love that line *"The monster's running wild inside of me"*, right? ❤️ 
+
+---
 
 When I'm not orchestrating bits and bytes, you might find me lost in the world of memes or exploring the untamed wilderness of Stack Overflow 👨‍💻.
 
