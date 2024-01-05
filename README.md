@@ -67,9 +67,13 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 ![Simatwa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=tokyonight) 
 
+---
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight"></img>
 </p>
+
+---
 
 <!--
 <img src="https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=6&theme=tokyonight&combine_all_yearly_contributions=true"/>
