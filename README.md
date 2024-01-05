@@ -2,6 +2,8 @@
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views"/> <a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
 
+---
+
 👋 Hey there! Welcome to my GitHub abode! 🚀
 
 Where should I start from?
@@ -22,6 +24,7 @@ Let's collaborate, innovate, and build some pixel-perfect magic together! 🌟 F
 
 Will you use this info to social engineer me 💻? Uhm, okay, come on baby, I wasn't that bad in cyber classes 📚 😂.
 
+---
 
 ```
 $ echo "Most of my very own best projects in Github are the ones that are lessly starred! 😅" >> fun-fact.txt
