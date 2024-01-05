@@ -50,6 +50,8 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 ---
 
+| Overview | In Detail |
+|--------|----------|
 | ![Contributions](https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
 ---
