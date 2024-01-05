@@ -40,21 +40,32 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 ## 📊 Progress Stats:
 
+---
+
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simatwa&theme=tokyonight" alt="Profile Details"/>
-<img src="https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
+
+<p align="center">
+
+---
+
+| ![Contributions](https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+
+---
+
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true) |
+
+---
+
+</p>
+
+
+![Simatwa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=tokyonight) 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Simatwa&theme=tokyonight"></img>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight"/>
-</p>
-<img alt="Simatwa Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=tokyonight"/>
-
 
 <!--
 <img src="https://github-contributor-stats.vercel.app/api?username=Simatwa&limit=6&theme=tokyonight&combine_all_yearly_contributions=true"/>
