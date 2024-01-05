@@ -27,7 +27,7 @@ Oh, and in my world of music 🎶, **Alan Walker** reigns supreme. His beats fue
 
 ---
 
-<h2 align="center">Funny Me</h2>
+<h2 align="center">Diversed Me</h2>
 
 | Coding | Hilarious | Etcs |
 |--------|------------|-----|
