@@ -47,15 +47,19 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 </p>
 
 <p align="center">
+
 ---
 
 | ![Contributions](https://streak-stats.demolab.com?user=Simatwa&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Simatwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
 ---
 
+| Overview | In Detail |
+|--------|----------|
 | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true) |
 
 ---
+
 </p>
 
 
