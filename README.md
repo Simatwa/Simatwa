@@ -87,7 +87,7 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 
 | Overview | In Detail | Repositories |
 |--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=synthwaves) |
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Simatwa&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/langs?time_range=all_time&theme=synthwaves&include_private=true&group=public) | ![In detail](https://api.githubtrends.io/user/svg/Simatwa/repos?time_range=all_time&include_private=true&group=private&theme=synthwaves) |
 
 ---
 
