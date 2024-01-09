@@ -1,5 +1,9 @@
 <h1 align="center"> About Me </h1>
 
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=134358&random=false&width=499&lines=Speak+your+mind+even+if+your+voice+shakes!" alt="Typing SVG" /></a>
+</p>
+
 <p align="center">
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views"/> <a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Simatwa/simatwa"/></a> 
@@ -142,6 +146,9 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 Hit that <kbd>follow</kbd> button and then visit <a href="https://github.com/Simatwa/simatwa-does" target="_blank">my projects in order.</a>
 </p>
 
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=FF3C3C&random=false&width=800&lines=Just+because+you+took+longer+than+others%2C+doesn't++mean+you+failed." alt="Typing SVG" /></a>
+</p>
 
 > **FAQ** : Are you always this funny/cheeky? **NO** : When I get to business I **MEAN** it. I don't bring jokes at work.
 
