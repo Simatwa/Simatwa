@@ -1,12 +1,12 @@
 <h1 align="center"> About Me </h1>
 
-<p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=134358&random=false&width=499&lines=Speak+your+mind+even+if+your+voice+shakes!" alt="Typing SVG" /></a>
-</p>
-
 <p align="center">
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Simatwa&color=blueviolet&style=plastic&label=Profile+Views"/> <a href="https://wakatime.com/@321c8a21-57bc-4782-bb00-8733ff579c0d"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d.svg" alt="Total time coded since Jan 19 2023" /></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Simatwa/simatwa"/></a> 
+</p>
+
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=4000&color=134358&random=false&width=520&lines=Speak+your+mind+even+if+your+voice+shakes!" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -65,6 +65,10 @@ $ echo "Most of my very own best projects in Github are the ones that are lessly
 ```
 
 <h2 align="center"> 💻 Tech Stack:</h2>
+
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&color=2288BB&random=false&width=620&lines=Transforming+ideas+into+innovation%2C+one+line+of+Python+at+a+time." alt="Typing SVG" /></a>
+</p>
 
  <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt='python'/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Adobe Illustratoe" src="https://img.shields.io/static/v1?logo=adobeillustrator&style=flat-square&message=Adobe-Illustrator&labelColor=blue&color=blue&label="/> <img alt="Figma" src="https://img.shields.io/static/v1?logo=figma&style=flat-square&message=Figma&labelColor=blue&color=blue&label=&logoColor=black"/>
@@ -147,7 +151,7 @@ Hit that <kbd>follow</kbd> button and then visit <a href="https://github.com/Sim
 </p>
 
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=FF3C3C&random=false&width=800&lines=Just+because+you+took+longer+than+others%2C+doesn't++mean+you+failed." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=4000&color=F7AA96&random=false&width=470&lines=Don't+let+everyone+rush+you+with+their+timelines." alt="Typing SVG" /></a>
 </p>
 
 > **FAQ** : Are you always this funny/cheeky? **NO** : When I get to business I **MEAN** it. I don't bring jokes at work.
