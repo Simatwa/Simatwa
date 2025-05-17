@@ -46,10 +46,10 @@ class Attributes(Smartwa):
     @property
     def coding(
         self,
-    ) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str, Dict[str, Dict]]]:
+    ) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str, Dict[str, str]]]:
         langs = {
-            "expert": ["python", "js", "bash"],
-            "intermediate": ["c", "ts"],
+            "expert": ["python", "bash"],
+            "intermediate": ["c", "js", "ts"],
             "learning": ["kotlin", "java"],
         }
         specialities = ["backend", "cybersec"]
@@ -80,8 +80,6 @@ class Attributes(Smartwa):
 
  <h2 align="center">📊 Progress Stats:</h2>
 
----
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simatwa&theme=tokyonight" alt="Profile Details"/>
 </p>
@@ -104,8 +102,7 @@ class Attributes(Smartwa):
 
 </p>
 
-
-![Simatwa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=tokyonight) 
+![Simatwa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=tokyonight)
 
 ---
 
