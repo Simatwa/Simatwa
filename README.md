@@ -21,6 +21,7 @@ class Smartwa:
 
 
 class Attributes(Smartwa):
+    
     @property
     def contact(self) -> Tuple[str, str]:
         whatsapp = "https://wa.me/+254774304553"
