@@ -47,20 +47,20 @@ class Attributes(Smartwa):
         self,
     ) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str, Dict[str, Dict]]]:
         langs = {
-            "expert": ["python", "js"],
+            "expert": ["python", "js", "bash"],
             "intermediate": ["c", "ts"],
             "learning": ["kotlin", "java"],
         }
         specialities = ["backend", "cybersec"]
         ide = ["vscode"]
         pc = {
-            "Hardware": {
+            "hardware": {
                 "Host": "Lenovo  T430",
                 "CPU": "Intel i5-3320M (4) @ 3.300GHz",
                 "GPU": "Intel 3rd Gen Core processor Graphics",
                 "Resolution": "1366x768",
             },
-            "OS": {
+            "os": {
                 "Name": "Parrot Security 6.3 (lorikeet) x86_64",
                 "Kernel": "6.12.12-amd64",
                 "Shell": "zsh 5.9",
