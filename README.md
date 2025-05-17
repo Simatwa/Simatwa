@@ -60,6 +60,8 @@ class Attributes(Smartwa):
                 "CPU": "Intel i5-3320M (4) @ 3.300GHz",
                 "GPU": "Intel 3rd Gen Core processor Graphics",
                 "Resolution": "1366x768",
+                "ROM": "500GB HDD",
+                "RAM" : "8GB DDR3",
             },
             "os": {
                 "Name": "Parrot Security 6.3 (lorikeet) x86_64",
