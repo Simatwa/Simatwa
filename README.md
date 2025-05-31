@@ -52,7 +52,7 @@ class Attributes(Smartwa):
             "intermediate": ["c", "js", "ts"],
             "learning": ["kotlin", "java"],
         }
-        specialities = ["backend", "cybersec"]
+        specialities = ["backend", "pen-test"]
         ide = ["vscode"]
         pc = {
             "hardware": {
