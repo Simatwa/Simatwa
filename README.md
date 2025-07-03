@@ -24,10 +24,9 @@ class Attributes(Smartwa):
     
     @property
     def contact(self) -> Tuple[str, str]:
-        whatsapp = "https://wa.me/+254774304553"
         email = "simatwacaleb@proton.me"
 
-        return whatsapp, email
+        return email
 
     @property
     def life(self) -> Tuple[List[str], date, List[Dict[str, str]]]:
@@ -50,7 +49,7 @@ class Attributes(Smartwa):
         langs = {
             "expert": ["python", "bash"],
             "intermediate": ["c", "js", "ts"],
-            "learning": ["kotlin", "java"],
+            "learning": [],
         }
         specialities = ["backend", "pen-test"]
         ide = ["vscode"]
