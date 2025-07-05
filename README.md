@@ -13,7 +13,6 @@
 
 ```python
 from typing import Tuple, List, Dict
-from datetime import date
 
 
 class Smartwa:
@@ -23,58 +22,35 @@ class Smartwa:
 class Attributes(Smartwa):
     
     @property
-    def contact(self) -> Tuple[str, str]:
+    def contact(self) -> Tuple[str]:
         email = "simatwacaleb@proton.me"
 
-        return email
+        return (email, )
 
     @property
-    def life(self) -> Tuple[List[str], date, List[Dict[str, str]]]:
+    def life(self) -> Tuple[List[str], List[Dict[str, str]]]:
         langs = ["Kiswahili", "English"]
-        date_of_birth = date(2003, 4, 3)
         courses = [
             {
                 "name": "BBIT",
                 "institution": "MUST",
                 "level": "Degree",
-                "period": "2021 - 2026",
             }
         ]
-        return langs, date_of_birth, courses
+        return langs, courses
 
     @property
     def coding(
         self,
-    ) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str, Dict[str, str]]]:
+    ) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
         langs = {
             "expert": ["python", "bash"],
             "intermediate": ["c", "js", "ts"],
-            "learning": [],
+            "refining": ["c"],
         }
         specialities = ["backend", "pen-test"]
-        ide = ["vscode"]
-        pc = {
-            "hardware": {
-                "Host": "Lenovo  T430",
-                "CPU": "Intel i5-3320M (4) @ 3.300GHz",
-                "GPU": "Intel 3rd Gen Core processor Graphics",
-                "Resolution": "1366x768",
-                "ROM": "500GB HDD",
-                "RAM" : "8GB DDR3",
-            },
-            "os": {
-                "Name": "Parrot Security 6.3 (lorikeet) x86_64",
-                "Kernel": "6.12.12-amd64",
-                "Shell": "zsh 5.9",
-                "DE": "MATE 1.26.0",
-                "WM": "Metacity (Marco)",
-                "Theme": "ARK-Dark [GTK2/3]",
-                "Icons": "ara [GTK2/3]",
-                "Terminal": "mate-terminal",
-                "Terminal Font": "DejaVu Sans Mono 13",
-            },
-        }
-        return langs, specialities, ide, pc
+        text_editor = ["vscode"]
+        return langs, specialities, text_editor
 ```
 
  <h2 align="center">📊 Progress Stats:</h2>
