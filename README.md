@@ -20,7 +20,7 @@ class Smartwa:
 
 
 class Attributes(Smartwa):
-    
+
     @property
     def contact(self) -> Tuple[str]:
         email = "simatwacaleb@proton.me"
@@ -77,7 +77,7 @@ class Attributes(Smartwa):
 
 </p>
 
-![Simatwa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=tokyonight)
+![Simatwa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Simatwa&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)
 
 ---
 
